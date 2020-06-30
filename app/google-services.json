@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "606458538559",
+    "firebase_url": "https://dlab-faf62.firebaseio.com",
+    "project_id": "dlab-faf62",
+    "storage_bucket": "dlab-faf62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606458538559:android:a8c62ac219c45a34b9268a",
+        "android_client_info": {
+          "package_name": "c.gingdev.dlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606458538559-o35t7psijoek09kupppf8e59i3e4019k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "c.gingdev.dlab",
+            "certificate_hash": "a4cc5e033e8cc6593e8d7c8e4d7dfeeb641e6725"
+          }
+        },
+        {
+          "client_id": "606458538559-osq79ot0iopu0our3ps3ji5ba68n5aud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmOVGQrdS-P-m6cylGEMMq3jZqzpropXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606458538559-osq79ot0iopu0our3ps3ji5ba68n5aud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
